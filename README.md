@@ -1,87 +1,103 @@
 
-# Career Goals Reflection Template
+# Personal Information
+Name: Mncedisi Ambrosia Sikhosana
+Date: July 20, 2024
+Current Role/Position: CodespaceZA Student
+Field of Interest: Cloud Development
+Part 1: Self-Assessment Reflection
+# Skills Analysis:
 
-### Introduction to the Template
+# Current Skills and Areas of Expertise:
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
+Proficient in HTML and CSS
+# Skills to Develop or Improve:
 
-### Instructions for Using the Template:
+AWS Cloud knowledge and skills
+Advanced programming languages such as JavaScript or Python
+# Interests and Values:
 
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
+# Key Interests Related to my Career:
 
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+AWS Cloud knowledge and skills
+Exploring cloud technologies and their applications
+Important Values in a Work Environment:
 
-### Personal Information
+Innovation and cutting-edge technology
+Collaborative teamwork and continuous learning
+Part 2: Career Exploration Insights
+Industries and Roles Explored:
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+# List of Industries/Roles:
 
-### Part 1: Self-Assessment Reflection
+Cloud development
+Roles focused on Amazon Web Services (AWS)
+# Areas of Interest:
 
-1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+The dynamic nature of cloud development
+The extensive possibilities and scalability offered by AWS
+# Alignment with Personal Profile:
 
-### Part 2: Career Exploration Insights
+Alignment Reflection:
+Cloud development aligns with my interest in AWS and my desire to work with innovative technologies.
+The focus on AWS roles fits my current skill set and my goal to deepen my knowledge in cloud computing.
+Part 3: SMART Career Goals
+# Short-term Goals (Next 1-2 years):
 
-1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+List of Goals:
 
-### Part 3: SMART Career Goals
+Complete an AWS certification by December 2025.
+Build and deploy a cloud-based project using AWS by the end of 2024.
+Enhance programming skills by learning JavaScript or Python within the next 12 months.
+# Rationale:
 
-1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+AWS certification will validate my skills and improve my job prospects in cloud roles.
+Developing a cloud-based project will provide practical experience and reinforce my learning.
+Learning additional programming languages will complement my web development skills and open new opportunities.
+# Long-term Goals (3-5 years and beyond):
 
-### Part 4: Action Plan
+# Long-term Goals:
 
-1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+Transition into a Cloud Engineer role within the next 5 years.
+Specialize in AWS solutions and contribute to large-scale cloud projects.
+Explore leadership opportunities or consider starting a cloud consulting business.
+# Alignment with Interests and Skills:
 
-### Part 5: Reflection on Challenges and Opportunities
+A Cloud Engineer role aligns with my interest in AWS and cloud technologies.
+Specializing in AWS fits my goal of becoming an expert in cloud solutions.
+Leadership or consulting opportunities align with my desire for greater responsibility and impact.
+Part 4: Action Plan
+# Steps to Achieve Short-term Goals:
 
-1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+# Actions and Steps:
 
-### Submission
+Enroll in an AWS certification course by August 2024.
+Develop a project plan for a cloud-based application and start development in September 2024.
+Dedicate time each week to learning JavaScript or Python through online courses or tutorials.
+# Resources or Support Needed:
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+Access to AWS training resources and certification materials.
+Development tools and platforms for cloud-based projects.
+Online learning platforms or coding bootcamps for additional programming skills.
+# Preparation for Long-term Goals:
 
+# Preparations Needed:
+Gain hands-on experience with AWS through real-world projects and internships.
+Build a professional network in the cloud development field and seek mentorship.
+Research and plan for potential entrepreneurship or leadership opportunities.
+Part 5: Reflection on Challenges and Opportunities
+# Anticipated Challenges:
 
+# Challenges:
+
+Keeping up with the rapid advancements in cloud technologies.
+Balancing time between learning new skills and work responsibilities.
+# Strategies to Overcome Challenges:
+
+Stay updated with industry trends through continuous learning and professional development.
+Implement effective time management strategies to balance learning and work.
+# Opportunities for Growth:
+
+# Leveraging Opportunities:
+Participate in cloud computing conferences and workshops for networking and learning.
+Seek mentorship from experienced cloud professionals for guidance and advice.
+Explore opportunities for hands-on experience through internships or freelance projects.
